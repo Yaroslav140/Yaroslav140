@@ -36,7 +36,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/wakatime?username=Yaroslav140&theme=radical&show_icons=true&hide_border=true&count_private=true&locale=ru">
+  <img src="https://github-readme-stats-fast.vercel.app/api/wakatime?username=@Yaroslav140&theme=radical&show_icons=true&hide_border=true&count_private=true&locale=ru">
 </p>
 
 ###
