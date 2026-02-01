@@ -40,7 +40,7 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yaroslav140/Yaroslav140/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yaroslav140/Yaroslav140/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yaroslav140/Yaroslav140/utput/github-contribution-grid-snake.svg" />
     <img alt="github-snake" src="https://raw.githubusercontent.com/Yaroslav140/Yaroslav140/refs/heads/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
