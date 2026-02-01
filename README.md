@@ -35,6 +35,8 @@
   <img src="https://github-readme-stats-fast.vercel.app/api?username=Yaroslav140&theme=shadow_red&show_icons=true&hide_border=true&count_private=true&locale=ru">
 </p>
 
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/wakatime?username=Yaroslav140&theme=radical)
+
 ###
 
 <p align="center">
